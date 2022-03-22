@@ -23,7 +23,10 @@ local --> remote
 
 ### useful terminal commands
 
-ls - list
-touch - adds a file
-cd <name> changes directory
-cd .. 
+-ls - list
+-touch - adds a file
+-cd <name> - changes directory
+-cd ..
+
+
+here is a random update to test
