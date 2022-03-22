@@ -31,4 +31,4 @@ local --> remote
 - cd ..
 
 
-here is a random update to test
+here is a random update to test to verify git and github are linked
