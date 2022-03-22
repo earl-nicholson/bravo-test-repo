@@ -20,3 +20,10 @@ local --> remote
   - git add
   - git commit -m "message" (goal of message : human communication)
   - git push origin main (not always main)
+
+### useful terminal commands
+
+ls - list
+touch - adds a file
+cd <name> changes directory
+cd .. 
